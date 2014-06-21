@@ -1,5 +1,5 @@
-## Programming Asignment 2. 
-## functions for caching the inverse of a matrix
+## The first function creates the structure 
+## functions do
 
 ## The makeCacheMatrix function  creates a special matrix structure which returns a list containing set - get functions
 ## allowing setting and getting the matrix and its inverse
